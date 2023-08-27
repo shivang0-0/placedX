@@ -40,7 +40,7 @@ function Landing() {
   return (
     <div>
       <header style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '20px', borderBottom: '1px solid #ccc' }}>
-        <img src={logoImage} alt="Logo" style={{ height: '40px', marginRight: '20px' }} />
+        <img src={logoImage} alt="Logo" style={{ height: '90px', marginRight: '20px' }} />
         <h1 style={{ fontSize: '36px', marginRight: '40%'}}>JIIT TnP Cell e-portal</h1>
       </header>
       <div style={formStyles}>
